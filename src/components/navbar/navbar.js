@@ -20,10 +20,10 @@ export default function navbar() {
         </a>
       </li>
       <li className="growing-underline mx-3">
-        <a href="features"></a>
+
       </li>
       <li className="growing-underline mx-3">
-        <a href="pricing"></a>
+     
       </li>
     </ul>
     <div className="font-montserrat hidden md:block">
@@ -45,13 +45,13 @@ export default function navbar() {
     </div>
     <ul className="font-montserrat flex flex-col mx-8 my-24 items-center text-3xl">
       <li className="my-6">
-        <a href="howitworks"></a>
+  
       </li>
       <li className="my-6">
-        <a href="features"></a>
+       
       </li>
       <li className="my-6">
-        <a href="pricing"></a>
+       
       </li>
     </ul>
   </div>
