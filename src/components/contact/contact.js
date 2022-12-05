@@ -11,7 +11,7 @@ function contact () {
 
                 <div id='contact' class="w-full  px-1 py-1 mx-auto   ">
                 <div id='alignCenter ' className='smallWrap '>
-                <h1 id='header2' class=" uppercase"></h1>
+             
                 <h2 id='h2'>Get In Touch</h2>
 
                 </div>
